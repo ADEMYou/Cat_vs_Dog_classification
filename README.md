@@ -7,3 +7,5 @@ This project consists in a binary classification of cat and dog images. I used :
 - Data Augmentation
 
 - Transfer Learning with VGG16 (Fine-tuning)
+
+Technologies : Keras, Jupyter Notebook
